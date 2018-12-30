@@ -1,7 +1,7 @@
 # Manu Valle - Coming soon page
 
 **Website url:** https://manuvalle.net  
-**Version:** 1.0
+**Version:** 1.1
 
 ---
 
