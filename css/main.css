@@ -1,7 +1,7 @@
 /*!
   Website developed by Manu Valle <info@manuvalle.net>
   Project: manuvalle-coming-soon
-  Version: 1.0
+  Version: 1.1
   Open source github repository: https://github.com/manuvalle/manuvalle-coming-soon
 */
 
@@ -95,6 +95,7 @@ body {
 
 .container .avatar .content h1 {
 	font-size: 50px;
+	padding-top: 10px;
 }
 
 .container .avatar img {
@@ -173,7 +174,7 @@ body {
 .container h2 {
 	color: #fff;
 	font-weight: 300;
-	font-size: 18px;
+	font-size: 14px;
 	text-align: center;
 	padding: 10px;
 }
